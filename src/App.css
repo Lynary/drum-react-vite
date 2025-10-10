@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+footer {
+  color: #dbedf3;
+  font-family: sans-serif;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
